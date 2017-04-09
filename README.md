@@ -1,5 +1,7 @@
 # skel-framework-npm
 
+[![NPM](https://nodei.co/npm/skel-framework-npm.png)](https://npmjs.org/package/skel-framework-npm)
+
 ##### NOTE: This repo is a fork of the Skel framework, published as an npm module.  The following is the README from [Skel](https://github.com/ajlkn/skel)
 
 Skel is a lightweight framework for building responsive sites and web apps.
